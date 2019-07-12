@@ -1,7 +1,7 @@
-# VM Base Cost Analysis Dashboard for vRealize Operations 7.5
+# VM Base Rate Cost Analysis Dashboard for vRealize Operations 7.5
 ---------
 
-CPU, Memory, and Storage base costs are the primary driver of a VM's cost.  With this [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboard, you can analyze current and historical CPU and Memory base costs per cluster along with Storage base costs per datastore.  Each heatmap has multiple views to compare base rate with other important metrics.  Easily compare demand and allocation based costs for clusters that have allocation model enabled for capacity planning.
+CPU, Memory, and Storage base rate costs are the primary driver of a VM's cost.  With this [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboard, you can analyze current and historical CPU and Memory base rate costs per cluster along with Storage base rate costs per datastore.  Each heatmap has multiple views to compare base rate with other important metrics.  Easily compare demand and allocation based costs for clusters that have allocation model enabled for capacity planning.
 
 ![VM Base Cost Analysis Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-vm_base_cost_analysis/master/Dashboard.png)
 
